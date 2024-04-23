@@ -12,9 +12,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/quic-go/quic-go"
-	mockquic "github.com/quic-go/quic-go/internal/mocks/quic"
-	"github.com/quic-go/quic-go/quicvarint"
+	"github.com/YCK1130/quic-go"
+	mockquic "github.com/YCK1130/quic-go/internal/mocks/quic"
+	"github.com/YCK1130/quic-go/quicvarint"
 
 	"github.com/quic-go/qpack"
 

@@ -6,8 +6,8 @@ import (
 	"math"
 	"net/http"
 
-	mockquic "github.com/quic-go/quic-go/internal/mocks/quic"
-	"github.com/quic-go/quic-go/internal/qerr"
+	mockquic "github.com/YCK1130/quic-go/internal/mocks/quic"
+	"github.com/YCK1130/quic-go/internal/qerr"
 
 	"github.com/quic-go/qpack"
 

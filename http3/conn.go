@@ -6,9 +6,9 @@ import (
 	"net"
 	"sync/atomic"
 
-	"github.com/quic-go/quic-go"
-	"github.com/quic-go/quic-go/internal/protocol"
-	"github.com/quic-go/quic-go/quicvarint"
+	"github.com/YCK1130/quic-go"
+	"github.com/YCK1130/quic-go/internal/protocol"
+	"github.com/YCK1130/quic-go/quicvarint"
 )
 
 // Connection is an HTTP/3 connection.

@@ -5,9 +5,9 @@ import (
 	"log"
 	"os"
 
-	"github.com/quic-go/quic-go/internal/protocol"
-	"github.com/quic-go/quic-go/internal/utils"
-	"github.com/quic-go/quic-go/quicvarint"
+	"github.com/YCK1130/quic-go/internal/protocol"
+	"github.com/YCK1130/quic-go/internal/utils"
+	"github.com/YCK1130/quic-go/quicvarint"
 
 	. "github.com/onsi/ginkgo/v2"
 	. "github.com/onsi/gomega"

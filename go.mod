@@ -1,4 +1,4 @@
-module github.com/quic-go/quic-go
+module github.com/YCK1130/quic-go
 
 go 1.21
 
